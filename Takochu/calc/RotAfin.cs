@@ -2,7 +2,7 @@
 using System;
 
 
-namespace Takochu.calc
+namespace Takochu.calc//
 {
     public class RotAfin
     {
